@@ -1,1 +1,3 @@
 # Flash-reflejado
+
+Es preciso que la parábola del flash sea orientable, o bien (si el flash no es del tipo TTL) que el sensor se pueda separar, ya que se tiene que dirigir necesariamente hacia el sujeto en el momento en que se dirige el destello hacia el techo o hacia una pared. El techo o la pared tienen que ser claros y de color neutro. Hay que «disparar» el destello hacia el techo a una distancia considerable del sujeto, de modo que el ángulo flash techo sujeto sea lo bastante ancho como para que la luz no caiga sobre el sujeto demasiado a plomo, pues formaría sombras desagradables en la cara.
